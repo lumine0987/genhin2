@@ -1,0 +1,15 @@
+.left{
+  float:left;
+  width:35%;
+}
+.right{
+  float:left;
+  width:35%;
+}
+.form{
+  float:left;
+  width:30%;
+}
+body{
+  background-color:MediumPurple;
+}
